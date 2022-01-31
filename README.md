@@ -6,4 +6,4 @@ this texture pack has mostly some stuff i made (like items, blocks and shit), wh
 
 just place the folder in `.minecraft\resourcepacks`, should work just fine from there
 
-see "Patch Notes.txt" for changes and shit lol
+see "Patch Notes.md" for changes and shit lol
